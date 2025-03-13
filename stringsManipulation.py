@@ -116,6 +116,7 @@ def count_vowels_consonants(s):
 print(count_vowels_consonants('write a program that counts vowels and consonants in a string')) #(15, 30)
 
        
-  #note: get ready to push into github      
+  #note: get ready to push into github   
+  # more notes to myself    
 
 
